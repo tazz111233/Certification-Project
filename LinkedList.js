@@ -6,7 +6,7 @@ const { Student } = require('./Student')
  */
 class Node {
   // Public Fields
-  data               // Object
+  data               // Student
   next               // Object
   /**
    * REQUIRES:  The fields specified above
