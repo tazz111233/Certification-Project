@@ -52,7 +52,7 @@ class LinkedList {
   }
 
   /**
-   * REQUIRES:  None
+   * REQUIRES:  email(String)
    * EFFECTS:   Removes a student by email (assume unique)
    * RETURNS:   None
    * CONSIDERATIONS:
@@ -64,7 +64,7 @@ class LinkedList {
   }
 
   /**
-   * REQUIRES:  email (String) all lowercase
+   * REQUIRES:  email (String)
    * EFFECTS:   None
    * RETURNS:   The Student or -1 if not found
    */
