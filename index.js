@@ -71,7 +71,6 @@ async function handleCommand(command) {
        * TODO:
        *  Displays the students in the Linked List
        *  You will need to do the following:
-       *   - Use implemented functions in LinkedList to grab the Student
        *   - Use implemneted functions in Student to display the student
        */
       console.log('Displaying students...')
@@ -110,7 +109,7 @@ async function handleCommand(command) {
 
       // --------> WRITE YOUR CODE ABOVE
 
-    case 'load':
+    case "load":
       /**
        * TODO:
        *  Loads data from specified JSON file into current Linked List
