@@ -64,7 +64,7 @@ class LinkedList {
   }
 
   /**
-   * REQUIRES:  Email (String)
+   * REQUIRES:  email (String) all lowercase
    * EFFECTS:   None
    * RETURNS:   The Student or -1 if not found
    */
