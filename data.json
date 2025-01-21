@@ -1,122 +1,122 @@
 [
   {
-      "name": "Alice Johnson",
+      "name": "AliceJohnson",
       "year": 2,
       "email": "alice.johnson@gmail.com",
-      "specialization": "Computer Science"
+      "specialization": "computerScience"
   },
   {
-      "name": "Bob Smith",
+      "name": "BobSmith",
       "year": 3,
       "email": "bob.smith@hotmail.com",
-      "specialization": "Mechanical Engineering"
+      "specialization": "mechanicalEngineering"
   },
   {
-      "name": "Catherine Brown",
+      "name": "CatherineBrown",
       "year": 1,
       "email": "catherine.brown@yahoo.com",
       "specialization": "Physics"
   },
   {
-      "name": "David Lee",
+      "name": "DavidLee",
       "year": 4,
       "email": "david.lee@example.com",
       "specialization": "Mathematics"
   },
   {
-      "name": "Eleanor Green",
+      "name": "EleanorGreen",
       "year": 3,
       "email": "eleanor.green@outlook.com",
       "specialization": "Biology"
   },
   {
-      "name": "Frank White",
+      "name": "FrankWhite",
       "year": 2,
       "email": "frank.white@hotmail.com",
       "specialization": "History"
   },
   {
-      "name": "Grace Hall",
+      "name": "GraceHall",
       "year": 1,
       "email": "grace.hall@gmail.com",
       "specialization": "Art"
   },
   {
-      "name": "Henry Adams",
+      "name": "HenryAdams",
       "year": 4,
       "email": "henry.adams@yahoo.com",
-      "specialization": "Political Science"
+      "specialization": "politicalScience"
   },
   {
-      "name": "Isla Clark",
+      "name": "IslaClark",
       "year": 3,
       "email": "isla.clark@gmail.com",
       "specialization": "Nursing"
   },
   {
-      "name": "Jack Turner",
+      "name": "JackTurner",
       "year": 2,
       "email": "jack.turner@example.com",
       "specialization": "Finance"
   },
   {
-      "name": "Kara Wright",
+      "name": "KaraWright",
       "year": 1,
       "email": "kara.wright@outlook.com",
       "specialization": "Economics"
   },
   {
-      "name": "Liam Young",
+      "name": "LiamYoung",
       "year": 4,
       "email": "liam.young@hotmail.com",
-      "specialization": "Software Engineering"
+      "specialization": "softwareEngineering"
   },
   {
-      "name": "Mia Lewis",
+      "name": "MiaLewis",
       "year": 2,
       "email": "mia.lewis@gmail.com",
       "specialization": "Biochemistry"
   },
   {
-      "name": "Noah Walker",
+      "name": "NoahWalker",
       "year": 3,
       "email": "noah.walker@yahoo.com",
       "specialization": "Medicine"
   },
   {
-      "name": "Olivia Harris",
+      "name": "OliviaHarris",
       "year": 1,
       "email": "olivia.harris@example.com",
-      "specialization": "Veterinary Science"
+      "specialization": "veterinaryScience"
   },
   {
-      "name": "Paul Martin",
+      "name": "PaulMartin",
       "year": 4,
       "email": "paul.martin@outlook.com",
       "specialization": "Physics"
   },
   {
-      "name": "Quinn Scott",
+      "name": "QuinnScott",
       "year": 2,
       "email": "quinn.scott@gmail.com",
       "specialization": "Psychology"
   },
   {
-      "name": "Ruby Evans",
+      "name": "RubyEvans",
       "year": 3,
       "email": "ruby.evans@hotmail.com",
       "specialization": "Anthropology"
   },
   {
-      "name": "Samuel Hill",
+      "name": "SamuelHill",
       "year": 1,
       "email": "samuel.hill@yahoo.com",
-      "specialization": "Environmental Science"
+      "specialization": "environmentalScience"
   },
   {
-      "name": "Tara King",
+      "name": "TaraKing",
       "year": 4,
       "email": "tara.king@example.com",
-      "specialization": "Computer Science"
+      "specialization": "computerScience"
   }
 ]
