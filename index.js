@@ -71,7 +71,7 @@ async function handleCommand(command) {
        * TODO:
        *  Displays the students in the Linked List
        *  You will need to do the following:
-       *   - Use implemneted functions in Student to display the student
+       *   - Use implemneted functions in LinkedList to display the student
        */
       console.log('Displaying students...')
       // --------> WRITE YOUR CODE BELOW
