@@ -7,10 +7,10 @@
  */
 class Student {
   // Private Fields
-  #name               // String
+  #name               // String(fullname no space in between)
   #year               // Number
   #email              // String
-  #specialization     // String
+  #specialization     // String(must be written in camelCase)
 
   /**
    * REQUIRES:  The fields specified above
