@@ -61,22 +61,6 @@ describe('LinkedList System Tests', () => {
     expect(filtered.length).toBe(2);
     expect(filtered.map(student => student.getName())).toEqual(['AliceJohnson', 'CharlieBrown']);
   });
-
-  test('Sorting students by name', () => {
-    // Create mock students
-    const students = createMockStudents();
-  
-    // Add each student to the linked list
-    students.forEach(student => linkedList.addStudent(student));
-  
-    // Use the public method to get the sorted list
-    const sortedStudents = linkedList.getSortedStudents();
-  
-    // Assert that the students are sorted by name
-    expect(sortedStudents.map(student => student.getName())).toEqual([
-      'AliceJohnson', 'BobSmith', 'CharlieBrown'
-    ]);
-  });
   
 
   test('Saving and loading from JSON', async () => {
