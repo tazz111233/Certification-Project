@@ -88,7 +88,7 @@ class LinkedList {
    * RETURNS:   LinkedList as a String for console.log in caller
    * CONSIDERATIONS:
    *  - Let's assume you have a LinkedList with two people
-   *  - Output should appear as: "John Doe, Jane Doe"
+   *  - Output should appear as: "JohnDoe, JaneDoe"
    */
   displayStudents() {
     // TODO
