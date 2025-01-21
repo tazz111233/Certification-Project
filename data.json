@@ -1,0 +1,122 @@
+[
+  {
+      "name": "Alice Johnson",
+      "year": 2,
+      "email": "alice.johnson@gmail.com",
+      "specialization": "Computer Science"
+  },
+  {
+      "name": "Bob Smith",
+      "year": 3,
+      "email": "bob.smith@hotmail.com",
+      "specialization": "Mechanical Engineering"
+  },
+  {
+      "name": "Catherine Brown",
+      "year": 1,
+      "email": "catherine.brown@yahoo.com",
+      "specialization": "Physics"
+  },
+  {
+      "name": "David Lee",
+      "year": 4,
+      "email": "david.lee@example.com",
+      "specialization": "Mathematics"
+  },
+  {
+      "name": "Eleanor Green",
+      "year": 3,
+      "email": "eleanor.green@outlook.com",
+      "specialization": "Biology"
+  },
+  {
+      "name": "Frank White",
+      "year": 2,
+      "email": "frank.white@hotmail.com",
+      "specialization": "History"
+  },
+  {
+      "name": "Grace Hall",
+      "year": 1,
+      "email": "grace.hall@gmail.com",
+      "specialization": "Art"
+  },
+  {
+      "name": "Henry Adams",
+      "year": 4,
+      "email": "henry.adams@yahoo.com",
+      "specialization": "Political Science"
+  },
+  {
+      "name": "Isla Clark",
+      "year": 3,
+      "email": "isla.clark@gmail.com",
+      "specialization": "Nursing"
+  },
+  {
+      "name": "Jack Turner",
+      "year": 2,
+      "email": "jack.turner@example.com",
+      "specialization": "Finance"
+  },
+  {
+      "name": "Kara Wright",
+      "year": 1,
+      "email": "kara.wright@outlook.com",
+      "specialization": "Economics"
+  },
+  {
+      "name": "Liam Young",
+      "year": 4,
+      "email": "liam.young@hotmail.com",
+      "specialization": "Software Engineering"
+  },
+  {
+      "name": "Mia Lewis",
+      "year": 2,
+      "email": "mia.lewis@gmail.com",
+      "specialization": "Biochemistry"
+  },
+  {
+      "name": "Noah Walker",
+      "year": 3,
+      "email": "noah.walker@yahoo.com",
+      "specialization": "Medicine"
+  },
+  {
+      "name": "Olivia Harris",
+      "year": 1,
+      "email": "olivia.harris@example.com",
+      "specialization": "Veterinary Science"
+  },
+  {
+      "name": "Paul Martin",
+      "year": 4,
+      "email": "paul.martin@outlook.com",
+      "specialization": "Physics"
+  },
+  {
+      "name": "Quinn Scott",
+      "year": 2,
+      "email": "quinn.scott@gmail.com",
+      "specialization": "Psychology"
+  },
+  {
+      "name": "Ruby Evans",
+      "year": 3,
+      "email": "ruby.evans@hotmail.com",
+      "specialization": "Anthropology"
+  },
+  {
+      "name": "Samuel Hill",
+      "year": 1,
+      "email": "samuel.hill@yahoo.com",
+      "specialization": "Environmental Science"
+  },
+  {
+      "name": "Tara King",
+      "year": 4,
+      "email": "tara.king@example.com",
+      "specialization": "Computer Science"
+  }
+]
