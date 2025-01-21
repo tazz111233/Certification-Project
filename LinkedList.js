@@ -59,7 +59,7 @@ class LinkedList {
    * - Think about the null case
    * - Think about how removal might update head or tail
    */
-  removeStudent() {
+  removeStudent(email) {
     // TODO
   }
 
@@ -68,7 +68,7 @@ class LinkedList {
    * EFFECTS:   None
    * RETURNS:   The Student or -1 if not found
    */
-  findStudent() {
+  findStudent(email) {
     // TODO
     return -1
   }
